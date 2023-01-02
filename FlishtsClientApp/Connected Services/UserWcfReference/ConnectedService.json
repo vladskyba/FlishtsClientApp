@@ -1,0 +1,16 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "http://localhost:61236/UserService.svc"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, UserWcfReference"
+    ],
+    "targetFramework": "net7.0",
+    "typeReuseMode": "All"
+  }
+}
